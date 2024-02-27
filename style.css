@@ -53,11 +53,11 @@ font-size: 1.1rem;
 margin: 20px;
 margin-bottom: 60px;
 margin-top: -10px;
-background-color: #4b366885;
+background-color: #f8f7f8;
 border-color:white;
 }
 .btn-info:hover{
-  background-color: #543d75bd;
+  background-color: #7350a380;
   border-color: white;
 }
 
@@ -114,7 +114,7 @@ border-color:white;
  border-radius: 10px;
  transition: all 0.2s ease-in;
 }
-.experiencia .columna:hover {
+.experiencia  .columna:hover {
   color: white;
   background-color:#251b32 ;
 }
@@ -135,12 +135,11 @@ border-color:white;
 }
 .experiencia i {
   font-size: 2.5rem;
-  color: #356d15;
+  color: #523775;
   padding: 8px 19px ;
   border-radius: 50%;
 
 }
-
 
 /*Proyectos*/
 .proyectos-recientes{
@@ -198,6 +197,8 @@ transition: all 0.2s ease;
   font-size: 60px;
   margin: 10px;
 }
+
+
 
 /*Contacto*/
 
